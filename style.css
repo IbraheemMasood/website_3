@@ -80,7 +80,7 @@ body {
     position: absolute;
     inset: 0;
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%),
-    url("https://media.discordapp.net/attachments/475863841436205072/1487310500592357458/ScreenShot19.png?ex=69c8ad58&is=69c75bd8&hm=ac0bf0ca04684ac42e015166d3a894be6d20051b9305ce67f390210c91735c16&=&format=webp&quality=lossless") no-repeat center / cover;
+    url("./images/ScreenShot16.png") no-repeat center / cover;
 }
 
 .hero-bg::after {
